@@ -17,3 +17,6 @@ wget http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.2%20Setup.exe
 
 # Notepad++
 wget https://notepad-plus-plus.org/repository/6.x/6.8.3/npp.6.8.3.Installer.exe
+
+# PyCharm
+# TODO
