@@ -2,6 +2,7 @@
 
 cd "`dirname $0`"
 
+mkdir -p ../web
 cd ../web
 
 rm -r downloads
