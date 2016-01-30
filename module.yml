@@ -1,0 +1,5 @@
+overview:
+  image: overview.jpg
+  name: Editor
+  text: Ein Editor hilft dabei, beim Programmieren den Quelltext zu lesen und zu schreiben.
+  category: tools
