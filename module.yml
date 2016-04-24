@@ -2,10 +2,12 @@ overview:
   tools:
     editors:
 #      image: overview.jpg
-      name: 
+      name:
         en-en: Editors
         de-de: Editoren
-      text: 
-        en-en: An editor helps in reading and writing computer programs. 
+        it-it: Editor di testo
+      text:
+        en-en: An editor helps in reading and writing computer programs.
         de-de: Ein Editor hilft dabei, beim Programmieren den Quelltext zu lesen und zu schreiben.
+        it-it: Un editor aiuta a leggere e a scrivere il codice.
       module: editors
